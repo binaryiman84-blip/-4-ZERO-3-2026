@@ -4,5 +4,6 @@ fully updated The original script used a single Chrome 65 / macOS 10.13 string f
  Introduction
 4-ZERO-3 2026 Tool to bypass 403/401. This script contain all the possible techniques to do the same.
 
-chmod +x 403 bypass 2026
+chmod +x 403 bypass 2026     
+
 ./403-bypass.sh -h
